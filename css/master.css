@@ -1,0 +1,17 @@
+* {
+	color: blue;
+	margin: 0;
+}
+
+header {
+	background-color: black;
+	color: white;
+}
+
+main {
+	background-color: black;
+}
+
+footer {
+	background-color: black;
+}
